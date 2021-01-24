@@ -1,5 +1,9 @@
 # detectly
 
+- Link: https://detectly.web.app/ 
+- Purpose of Project: Learn to integrate Tensorflow object detection algorithm with vue and deploy vue to firebase
+- Tools Used: Vue3, TensorflowJs, and Firebase
+
 ## Project setup
 ```
 npm install
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
